@@ -1,0 +1,1 @@
+import{j as r,B as e,T as o}from"./main-Deb5RsMR.js";function a(){return r.jsx(e,{className:"page-wrapper home",sx:{px:2,py:1},children:r.jsx(o,{level:"h1",color:"primary",noWrap:!0,children:"Home"})})}export{a as Component};
