@@ -1,0 +1,1 @@
+import{r as t,R as c}from"./en_US-762U7H2X-T-CjyVFm.js";const a=e=>{t.useEffect(()=>{c.send({hitType:"pageview",page:e})},[e])},o=" | Egghead Arc",i=e=>{t.useEffect(()=>{const s=document.title;return document.title=`${e}${o}`,()=>{document.title=s}})};export{a,i as u};
