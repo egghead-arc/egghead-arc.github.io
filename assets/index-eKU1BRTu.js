@@ -1,0 +1,1 @@
+import{j as e,B as o,T as r}from"./en_US-AV7YDYDW-CITRz_QN.js";import{u as p}from"./index-C6-BjRqN.js";function m(){return p("Home"),e.jsx(o,{className:"page-wrapper home",sx:{px:2,py:1},children:e.jsx(r,{level:"h1",color:"primary",noWrap:!0,children:"Home"})})}export{m as Component};
