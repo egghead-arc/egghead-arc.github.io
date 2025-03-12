@@ -1,1 +1,0 @@
-import{u as c,r as s,R as i}from"./en_US-AV7YDYDW-CITRz_QN.js";const u=t=>{s.useEffect(()=>{i.send({hitType:"pageview",page:t})},[t])},a=(t="")=>{const{t:e}=c("common");s.useEffect(()=>{const o=document.title;return t?document.title=`${t} | ${e("title")}`:document.title=e("title"),()=>{document.title=o}})};export{u as a,a as u};
