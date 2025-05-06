@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 350" preserveAspectRatio="xMidYMid" width="500" height="350"
-  style="shape-rendering: auto; display: block; background: rgb(255, 255, 255);"
+  style="shape-rendering: auto; display: block; background: rgba(255, 255, 255, 0);"
   xmlns:xlink="http://www.w3.org/1999/xlink">
   <g>
     <defs>

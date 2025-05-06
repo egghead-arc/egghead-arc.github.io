@@ -1,1 +1,0 @@
-import{j as e,B as r,T as p}from"./en_US-AV7YDYDW-BzcoLegj.js";import{u as s}from"./index-Dtu80gHg.js";function m(){const o=s("page.home");return e.jsx(r,{className:"page-wrapper home",sx:{px:2,py:1},children:e.jsx(p,{level:"h1",color:"primary",noWrap:!0,children:o})})}export{m as Component};

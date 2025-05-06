@@ -1,1 +1,0 @@
-import{u as c,r as o,R as i}from"./en_US-AV7YDYDW-BzcoLegj.js";const a=t=>{o.useEffect(()=>{i.send({hitType:"pageview",page:t})},[t])},r=(t="")=>{const{t:e}=c("common"),s=t?e(t):"";return o.useEffect(()=>{const n=document.title;return s?document.title=`${s} ⚙️ ${e("title")}`:document.title=e("title"),()=>{document.title=n}}),s};export{a,r as u};
