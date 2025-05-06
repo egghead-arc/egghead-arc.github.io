@@ -1,0 +1,1 @@
+import{j as e,C as n}from"./en_US-AV7YDYDW-Dms709DB.js";import{u as o,a as s,P as a}from"./index-RmOlOs0Z.js";function i(){const t=o("page.connect-wallet");return s("/web3/connect"),e.jsx(a,{className:"connect",title:t,divider:!0,children:e.jsx(n,{})})}export{i as Component};

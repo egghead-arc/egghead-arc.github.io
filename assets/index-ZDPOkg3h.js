@@ -1,1 +1,0 @@
-import{j as e,C as n}from"./en_US-AV7YDYDW-7gGl5ww4.js";import{u as o,a as s,P as a}from"./index-Z-lJFayC.js";function i(){const t=o("page.connect-wallet");return s("/web3/connect"),e.jsx(a,{className:"connect",title:t,divider:!0,children:e.jsx(n,{})})}export{i as Component};
