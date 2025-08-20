@@ -1,10 +1,12 @@
 {
-  "web3-tools": "區塊鏈工具",
-  "messages": "訊息",
   "AI": "人工智慧",
-  "WIP": "施工中",
-  "sponsor": "助我退休",
-  "Vegapunk": "貝卡帕庫",
   "it.works.on.my.machine": "在我的電腦上是好的！",
-  "suggestions": "僅在蘋果系統上的 Chrome 測試過，其他裝置的朋友，感謝您幫忙測試..."
+  "messages": "訊息",
+  "settings": "設定",
+  "sponsor": "助我退休",
+  "suggestions": "僅在蘋果系統上的 Chrome 測試過，其他裝置的朋友，感謝您幫忙測試...",
+  "TODO": "未完待續",
+  "Vegapunk": "貝卡帕庫",
+  "web3-tools": "區塊鏈工具",
+  "WIP": "施工中"
 }

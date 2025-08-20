@@ -1,0 +1,1 @@
+import{u as o,j as t}from"./en_US-AV7YDYDW-d9YE-QT6.js";import{P as s}from"./PageWrapper-CKgs3j-P.js";function a(){const e=o("page.home");return t.jsx(s,{className:"home",title:e})}export{a as Component};

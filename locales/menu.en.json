@@ -1,10 +1,12 @@
 {
-  "web3-tools": "Web3 Tools",
-  "messages": "Messages",
   "AI": "AI",
-  "WIP": "WIP",
-  "sponsor": "Retire Me Now!",
-  "Vegapunk": "Vegapunk",
   "it.works.on.my.machine": "It works on my machine",
-  "suggestions": "Optimized for MacOS + Chrome only. Other setups? Good luck!"
+  "messages": "Messages",
+  "settings": "Settings",
+  "sponsor": "Retire Me Now!",
+  "suggestions": "Optimized for MacOS + Chrome only. Other setups? Good luck!",
+  "TODO": "TODO",
+  "Vegapunk": "Vegapunk",
+  "web3-tools": "Web3 Tools",
+  "WIP": "WIP"
 }
