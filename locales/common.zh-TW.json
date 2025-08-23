@@ -1,7 +1,8 @@
 {
-  "title": "未來島: 蛋頭",
   "page.home": "首頁",
   "page.erc7201": "ERC-7201 計算機",
   "page.connect-wallet": "連接錢包",
-  "page.contract-address-calculator": "合約地址計算機"
+  "page.contract-address-calculator": "合約地址計算機",
+  "page.event-statistics": "活動數據與統計",
+  "title": "未來島: 蛋頭"
 }

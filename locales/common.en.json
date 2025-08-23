@@ -1,7 +1,8 @@
 {
-  "title": "Egghead Arc",
   "page.home": "Home",
   "page.erc7201": "ERC-7201 Calculator",
   "page.connect-wallet": "Connect Wallet",
-  "page.contract-address-calculator": "Contract Address Calculator"
+  "page.contract-address-calculator": "Contract Address Calculator",
+  "page.event-statistics": "Event Statistics",
+  "title": "Egghead Arc"
 }
