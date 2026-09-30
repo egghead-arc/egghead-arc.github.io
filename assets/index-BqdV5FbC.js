@@ -1,1 +1,0 @@
-import{u as o,j as t}from"./en_US-AV7YDYDW-BcUO4i0M.js";import{P as s}from"./PageWrapper-CSmq-Nki.js";function a(){const e=o("page.home");return t.jsx(s,{className:"home",title:e})}export{a as Component};
